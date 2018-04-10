@@ -2,7 +2,6 @@
 
 import numpy as np 
 import os
-from sys import getsizeof
 
 def convertToNParr(prefix = 'um'):
     """convert the data text files provided by yasser to memory-efficient numpy arrays, that can be quickly loaded
@@ -40,6 +39,6 @@ def convertToNParr(prefix = 'um'):
     print('done converting qual data for ' + prefix)
     
 
-
+    
 convertToNParr('um')
 convertToNParr('mu')
