@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Netflix
-//
-//  Created by Zitao Wang on 5/11/18.
-//  Copyright © 2018 Zitao Wang. All rights reserved.
-//
 
 #include <iostream>
 #include <vector>
